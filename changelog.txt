@@ -1,0 +1,12 @@
+#-----------------------------------#
+#                                   #
+# Copyright (C) 2016 Azril Rahim    #
+#                                   #
+# azrilazam@gmail.com               #
+#                                   #
+#-----------------------------------#
+
+
+
+Jan 11th 2016
+    - Git Remote add
